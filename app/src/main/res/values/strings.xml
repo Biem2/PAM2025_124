@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Lokalan</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_to_lokalan">Selamat Datang di Lokalan</string>
+    <string name="welcome_subtitle">Jelajahi kekayaan budaya Indonesia</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="continue_as_guest">Lanjut sebagai Tamu</string>
+
+    <!-- Auth -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+    <string name="login_to_continue">Login untuk melanjutkan</string>
+    <string name="create_account">Buat Akun Baru</string>
+    <string name="dont_have_account_register">Belum punya akun? Daftar</string>
+    <string name="already_have_account_login">Sudah punya akun? Login</string>
+
+    <!-- Navigation -->
+    <string name="back">Kembali</string>
+    <string name="profile">Profil</string>
+    <string name="search">Cari</string>
+    <string name="explore_culture">Jelajahi Budaya</string>
+
+    <!-- Home -->
+    <string name="browse_by_category">Jelajahi Berdasarkan Kategori</string>
+    <string name="search_budaya">Cari budaya...</string>
+    <string name="no_budaya_found">Tidak ada budaya ditemukan</string>
+
+    <!-- Detail -->
+    <string name="budaya_detail">Detail Budaya</string>
+    <string name="description">Deskripsi</string>
+    <string name="give_rating">Beri Penilaian</string>
+    <string name="comment_optional">Komentar (opsional)</string>
+    <string name="submit_review">Kirim Review</string>
+    <string name="login_to_rate">Login untuk memberikan rating</string>
+    <string name="reviews">Ulasan</string>
+    <string name="no_reviews_yet">Belum ada ulasan</string>
+    <string name="budaya_not_found">Budaya tidak ditemukan</string>
+
+    <!-- Kategori -->
+    <string name="categories">Kategori</string>
+    <string name="no_categories_found">Tidak ada kategori ditemukan</string>
+    <string name="back_to_categories">Kembali ke Kategori</string>
+
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profil</string>
+    <string name="account_information">Informasi Akun</string>
+    <string name="member_since">Member Sejak</string>
+    <string name="user_id">ID Pengguna</string>
+    <string name="logout">Logout</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="confirm_logout">Konfirmasi Logout</string>
+    <string name="logout_confirmation_message">Apakah Anda yakin ingin logout?</string>
+    <string name="login_required">Login diperlukan</string>
+</resources>
